@@ -4,5 +4,7 @@ public class Application {
         intellijIdea.responsePressF5();
         Windows chrome = new Chrome();
         chrome.responsePressF5();
+        Windows weChat = new Wechat();
+        weChat.responsePressF5();
     }
 }
